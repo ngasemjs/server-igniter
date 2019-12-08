@@ -1,0 +1,23 @@
+{
+  "name": "@ngasemjs/server-igniter",
+  "version": "0.1.0",
+  "description": "NgasemJS igniter",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ngasemjs/server-igniter.git"
+  },
+  "keywords": [],
+  "author": "Hadi Hidayat Hammurabi <hadihammurabi@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ngasemjs/server-igniter/issues"
+  },
+  "homepage": "https://github.com/ngasemjs/server-igniter#readme",
+  "dependencies": {
+    "@hamjs/rpc-server": "0.0.31"
+  }
+}
