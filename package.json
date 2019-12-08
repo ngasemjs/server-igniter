@@ -1,6 +1,6 @@
 {
   "name": "@ngasemjs/server-igniter",
-  "version": "0.1.0",
+  "version": "0.0.3",
   "description": "NgasemJS igniter",
   "main": "index.js",
   "scripts": {
