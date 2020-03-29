@@ -18,6 +18,6 @@
   },
   "homepage": "https://github.com/ngasemjs/server-igniter#readme",
   "dependencies": {
-    "@ngasemjs/server-core": "0.0.31"
+    "@ngasemjs/server-core": "0.0.32"
   }
 }
